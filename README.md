@@ -22,11 +22,11 @@ Dataverse: https://doi.org/10.7910/DVN/SZ9YXZ
 Description: Data originally from Svensk Lokalhistorisk Databas, tracking various metrics related to direct democracy.
 
 ### Australian Weather 
-[Link](https://github.com/apodkul/PPOL646/blob/main/Datasets/weatherAUS.csv)
-Source: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
+[Link](https://github.com/apodkul/PPOL646/blob/main/Datasets/weatherAUS.csv)  
+Source: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package  
 Description: A subset of the source data sharing a variety of different metrics from Australian weather stations. Visit original source for full data set.
 
 ### The Covid Tracking Project at _The Atlantic_
-[Direct Link to .csv](https://covidtracking.com/data/download/all-states-history.csv)
-Source: https://covidtracking.com/data/
+[Direct Link to .csv](https://covidtracking.com/data/download/all-states-history.csv)  
+Source: https://covidtracking.com/data/  
 Description: The above hyperlink links directly to the latest data collected from The COVID Tracking Project
