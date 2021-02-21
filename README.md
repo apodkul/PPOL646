@@ -1,4 +1,4 @@
-# PPOL646
+# PPOL 646
 A small repo that includes datasets and other code snippets for the McCourt School of Public Policy course PPOL 646-03: Data Visualization (Spring 2021). All additional course material provided on Canvas.
 
 
