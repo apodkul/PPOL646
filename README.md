@@ -32,7 +32,7 @@ Source: https://covidtracking.com/data/
 Description: The above hyperlink links directly to the latest data collected from The COVID Tracking Project
 
 ### Zillow Listings (n = 20) 
-[Link](https://github.com/apodkul/PPOL646/blob/main/Datasets/zillow.csv) 
-Source: https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html 
+[Link](https://github.com/apodkul/PPOL646/blob/main/Datasets/zillow.csv)  
+Source: https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html  
 Description from the Source: "Tallahassee Housing Prices as reported by Zillow, 20 records: Index, Square footage, beds, baths, zip code, year, list price. There is also an initial header line."
 
