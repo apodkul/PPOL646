@@ -37,13 +37,13 @@ Source: https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html
 Description from the Source: "Tallahassee Housing Prices as reported by Zillow, 20 records: Index, Square footage, beds, baths, zip code, year, list price. There is also an initial header line."
 
 ### S&P 500 Annual Returns 
-[Link](https://github.com/apodkul/PPOL646/blob/main/Datasets/yearly_sp500.csv) 
-Source: https://www.macrotrends.net/2526/sp-500-historical-annual-returns 
+[Link](https://github.com/apodkul/PPOL646/blob/main/Datasets/yearly_sp500.csv)  
+Source: https://www.macrotrends.net/2526/sp-500-historical-annual-returns  
 Description: A basic yearly dataset include the date and value of historical annual returns of the S&P 500. 
 
 ### Washington, DC Weather (November 2020)
-[Link](https://github.com/apodkul/PPOL646/blob/main/Datasets/daily_dc_weather.csv) 
-Source: https://www.wunderground.com/history/monthly/us/dc/washington/date/2020-11 
+[Link](https://github.com/apodkul/PPOL646/blob/main/Datasets/daily_dc_weather.csv)  
+Source: https://www.wunderground.com/history/monthly/us/dc/washington/date/2020-11  
 Description: Daily temperature and precipitation observations from DCA in November 2020 (Note: the observation for November 8th is missing from this dataset)
 
 
