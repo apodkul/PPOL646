@@ -46,4 +46,7 @@ Description: A basic yearly dataset include the date and value of historical ann
 Source: https://www.wunderground.com/history/monthly/us/dc/washington/date/2020-11  
 Description: Daily temperature and precipitation observations from DCA in November 2020 (Note: the observation for November 8th is missing from this dataset)
 
-
+### Census Demographic 
+[Link](https://github.com/apodkul/PPOL646/blob/main/Datasets/census_demo.csv)  
+Source: https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-detail.html  
+Description: County-level demographic data from the U.S. Census (data is trimmed from original source) 
