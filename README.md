@@ -50,3 +50,8 @@ Description: Daily temperature and precipitation observations from DCA in Novemb
 [Link](https://github.com/apodkul/PPOL646/blob/main/Datasets/census_demo.csv)  
 Source: https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-detail.html  
 Description: County-level demographic data from the U.S. Census (data is trimmed from original source) 
+
+### Texas County Data 
+[Link](https://github.com/apodkul/PPOL646/blob/main/Datasets/tx_county_data.csv)  
+Source: Population estimates (https://demographics.texas.gov/Data/TPEPP/Estimates/); Unemployment and uninsured rates (https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)  
+Description: County-level data from Texas including population estimates (from January 2020), unemployment rate, and uninsured rate (from 2014-2018 ACS). These data can be connected to a Texas shape file using the FIPS code. 
