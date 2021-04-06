@@ -51,6 +51,11 @@ Description: Daily temperature and precipitation observations from DCA in Novemb
 Source: https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-detail.html  
 Description: County-level demographic data from the U.S. Census (data is trimmed from original source) 
 
+### Mexico Stats 
+[Link](https://raw.githubusercontent.com/apodkul/PPOL646/main/Datasets/mexico_stats.csv)  
+Source: Trade data from INEGI and population data from the 2020 National Population Census  
+Description: State-level data in Mexico for use with an in-class lab using mapping data (associated shape file on Canvas).  
+
 ### Texas County Data 
 [Link](https://github.com/apodkul/PPOL646/blob/main/Datasets/tx_county_data.csv)  
 Source: Population estimates (https://demographics.texas.gov/Data/TPEPP/Estimates/); Unemployment and uninsured rates (https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)  
